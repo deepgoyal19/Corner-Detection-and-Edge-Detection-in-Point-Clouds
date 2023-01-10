@@ -6,3 +6,4 @@ In this paper, we present effective ways for edge detection in point clouds, cor
 
 
 The code can't be shown publicaly until our research paper is published. So please request if you interested to see it.
+https://colab.research.google.com/drive/1gMTkVNNEGRHx915h2KlGtGybfNOdDrf4?usp=sharing
