@@ -1,4 +1,4 @@
-# Corner-Detection-Edge-Detection-and-Surface-Reconstruction-in-Point-Clouds
+# Corner-Detection-Edge-Detection-in-Point-Clouds
 3D models today are widely used in various branches of engineering for visualising information. This is where feature like edges, corners, and vertices play an important role. 
 Today gaming industries are enduring to deliver realistic gaming experience to their customers. Inspiration is taken from real life objects and then are made in 3D modelling software. This is where point clouds come into work. A point cloud are datasets which represents objects in 3d space. Converting points clouds to 3D meshes can give us realistic 3D models. 
 To convert point cloud to realistic 3d models we have developed an algorithm to get an overview of wireframe for that point cloud. Our work mainly lies on extracting such points from point cloud which would help us in creating a wireframe for our 3D model. 
