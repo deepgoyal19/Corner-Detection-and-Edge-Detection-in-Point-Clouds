@@ -4,3 +4,6 @@ I have developed two methods for edge detection and corner detection.
 
 ## Edge Detection
 ![Edge Detection](https://github.com/deepgoyal19/Corner-Detection-Edge-Detection-and-Surface-Reconstruction-in-Point-Clouds/blob/main/Flowcharts/edgedetection.PNG)
+
+## Corner Detection
+![Corner Detection](https://github.com/deepgoyal19/Corner-Detection-Edge-Detection-and-Surface-Reconstruction-in-Point-Clouds/blob/main/Flowcharts/cornerdetection.PNG)
