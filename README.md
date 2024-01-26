@@ -8,4 +8,4 @@ I have developed two methods for edge detection and corner detection.
 ![Edge Detection Results1](https://github.com/deepgoyal19/Corner-Detection-Edge-Detection-and-Surface-Reconstruction-in-Point-Clouds/blob/main/Flowcharts/edgestats1.png)
 ## Corner Detection
 ![Corner Detection](https://github.com/deepgoyal19/Corner-Detection-Edge-Detection-and-Surface-Reconstruction-in-Point-Clouds/blob/main/Flowcharts/cornerdetection.PNG)
-![Corner Results1](https://github.com/deepgoyal19/Corner-Detection-Edge-Detection-and-Surface-Reconstruction-in-Point-Clouds/blob/main/Flowcharts/cornerstats1.PNG)
+![Corner Results1](https://github.com/deepgoyal19/Corner-Detection-Edge-Detection-and-Surface-Reconstruction-in-Point-Clouds/blob/main/Flowcharts/cornerstats.png)
