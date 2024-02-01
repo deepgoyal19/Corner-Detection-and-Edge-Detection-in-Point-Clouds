@@ -4,11 +4,11 @@ I have developed two methods for edge detection and corner detection.
 
 ## Edge Detection
 ![Edge Detection](https://github.com/deepgoyal19/Corner-Detection-Edge-Detection-and-Surface-Reconstruction-in-Point-Clouds/blob/main/Flowcharts/edgedetection.PNG)
-
+After conducting several experiments using various machine learning algorithms, it was concluded that DBSCAN outperformed all other algorithms.
 <p align="center">
 <img src="https://github.com/deepgoyal19/Corner-Detection-Edge-Detection-and-Surface-Reconstruction-in-Point-Clouds/blob/main/Flowcharts/edgestats.png" width="500" height="500">
-</p>n
-After conducting several experiments using various machine learning algorithms, it was concluded that DBSCAN outperformed all other algorithms.
+</p>
+
 <p align="center">
 <img src="https://github.com/deepgoyal19/Corner-Detection-Edge-Detection-and-Surface-Reconstruction-in-Point-Clouds/blob/main/Flowcharts/edgestats1.png" width="500" height="500">
 </p>
